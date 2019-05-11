@@ -15,3 +15,5 @@ download and apply online:
 5. follow and answer all question it will link you to a website to create an "MyCIC account". 
 6. Create that and download form IMM5645 & IMM5257E.
 7. Upload all your documents.
+
+MAP to VAC is in the folder
